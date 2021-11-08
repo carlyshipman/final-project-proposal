@@ -1,0 +1,9 @@
+h1 { color: rgb(158, 52, 52); }
+h2 { color: rgb(1, 129, 80); }
+h3 { color: rgb(85, 21, 94);}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
